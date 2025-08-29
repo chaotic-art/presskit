@@ -1,5 +1,5 @@
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ondra/Downloads/chaotic/chaotic_ogimage.png?version%3D1756461763965)
+![coverimg](image.png)
 
 
 # Chaotic — Press Kit
