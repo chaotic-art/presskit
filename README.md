@@ -1,3 +1,7 @@
+
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ondra/Downloads/chaotic/chaotic_ogimage.png?version%3D1756461763965)
+
+
 # Chaotic — Press Kit
 
 Official Chaotic brand assets for press, partners, and community.
